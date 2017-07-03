@@ -2,7 +2,10 @@
 
 This human parsing dataset includes the detailed pixel-wise annotations for fashion images, which is proposed in our TPAMI paper 
 "Deep Human Parsing with Active Template Regression", and ICCV 2015 paper "Human Parsing with Contextualized Convolutional Neural Network".
-Dataset：http://pan.baidu.com/s/1qY8bToS passwd：kjgk
+
+You can download the dataset from this link. http://pan.baidu.com/s/1qY8bToS passwd：kjgk
+
+We will mainly maintain a new LIP benchmark (over 50000 parsing and pose annotations) on diverse scenarios. The link is https://vuhcs.github.io
 
 Please cite our two papers if you use this dataset for  acadamic and commercial research. 
 
